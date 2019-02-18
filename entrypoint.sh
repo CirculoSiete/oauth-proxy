@@ -8,4 +8,5 @@
   -client-secret=${CLIENT_SECRET} \
   -cookie-secret=${CLIENT_SECRET} \
   -email-domain="*" \
+  -cookie-secure=${COOKIE_SECURE} \
   -provider=${PROVIDER}
